@@ -34,8 +34,8 @@ apply() {
     nord5="#3B4252" \
     nord6="#2E3440" \
     nord7="#D08770" \
-    nord8="#5E81AC" \
-    nord9="#B48EAD" \
+    nord8="#B48EAD" \
+    nord9="#5E81AC" \
     nord11="#BF616A" \
     nord13="#81A1C1" \
     nord14="#A3BE8C" \
